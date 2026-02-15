@@ -1,6 +1,7 @@
 # app.py
 # This is a test commit
 def add(a, b):
+    print("hello addition")
     return a + b
 
 def test_add():
